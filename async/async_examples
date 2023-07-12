@@ -1,0 +1,21 @@
+#Запуск сразу несколько процедур
+# create all task requests
+tasks_to_url = {asyncio.create_task(get_status(url)): url for url in sites}
+# wait for all tasks to complete
+_ = await asyncio.wait(tasks_to_url)
+
+-----------------------------------------
+
+coros = [get_status(url) for url in sites]
+# execute all coroutines and wait
+results = await asyncio.gather(*coros)
+# process all results
+for url, status in zip(sites, results):
+# report status
+    print(f'{url:30}:\t{status}')
+
+
+
+time.sleep(): blocks the current thread. While blocked, other threads may run.
+asyncio.sleep(): blocks the current coroutine (asyncio task). While blocked, other coroutines may run.
+Blocking the thread will block all coroutines.
