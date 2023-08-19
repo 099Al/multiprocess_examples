@@ -29,7 +29,6 @@ def task(identifier):
     # declare scope of shared queue
     global queue
     # send result using shared queue
-    print('x')
     queue.put((identifier, value))
 
 
