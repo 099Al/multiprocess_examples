@@ -1,5 +1,5 @@
 # SuperFastPython.com
-# example of sharing data with the callback function
+# example of sharing src_data with the callback function
 from random import random
 from time import sleep
 from multiprocessing.pool import Pool
@@ -8,11 +8,11 @@ from multiprocessing.pool import Pool
 # result callback function
 def result_callback(result):
     global data
-    # report shared global data from main process
+    # report shared global src_data from main process
     print(f'Callback data: {data}', flush=True)
     # change it
     data = random()
-    # report changed global data
+    # report changed global src_data
     print(f'Callback data now: {data}', flush=True)
 
 
@@ -23,7 +23,7 @@ def task(identifier):
 
 # protect the entry point
 if __name__ == '__main__':
-    # prepare shared global data
+    # prepare shared global src_data
     data = random()
     print(f'Main data: {data}', flush=True)
     # create and configure the process pool
@@ -34,5 +34,5 @@ if __name__ == '__main__':
         pool.close()
         # wait for all tasks to complete
         pool.join()
-    # report shared global data again
+    # report shared global src_data again
     print(f'Main data: {data}', flush=True)
