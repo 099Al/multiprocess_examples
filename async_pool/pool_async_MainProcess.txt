@@ -1,0 +1,4 @@
+STA MainProcess-Task-2 cnt=1 tasks:['1', '2', '3'] task_el=:1 start:20:38:10 
+STA MainProcess-Task-3 cnt=1 tasks:['1', '2', '3'] task_el=:2 start:20:38:10 
+STA MainProcess-Task-4 cnt=1 tasks:['1', '2', '3'] task_el=:3 start:20:38:10 
+END MainProcess-Task-3 cnt=1 tasks:['1', '2', '3'] task_el=:2 start:20:38:10 end:20:38:12 wait:2
