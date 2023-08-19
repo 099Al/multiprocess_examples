@@ -10,9 +10,9 @@ from concurrent.futures import FIRST_EXCEPTION
 
 # target task function
 def work(event, name):
-    # pretend read data for a long time
+    # pretend read src_data for a long time
     for _ in range(10):
-        # pretend to read some data
+        # pretend to read some src_data
         sleep(1)
         # check if this task should fail
         if name == 0:
