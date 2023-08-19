@@ -5,10 +5,10 @@ import time
 import datetime
 
 
-#data = [chr(x) for x in range(65,90)]
+#src_data = [chr(x) for x in range(65,90)]
 data = [(x,) for x in range(1,30)]
 
-#data = [1,2,3]
+#src_data = [1,2,3]
 
 def init(lock,d_task,q):
     global lG
@@ -78,6 +78,6 @@ if __name__ == '__main__':
 
 
     #with Pool(3,initializer=init, initargs=(lock,),  maxtasksperchild=2) as pool:
-    #    pool.starmap(utask,data)
+    #    pool.starmap(utask,src_data)
 
 

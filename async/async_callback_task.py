@@ -30,6 +30,6 @@ async def main():
     # report a final message
     print('main coroutine done')
 
-
-# start the asyncio program
-asyncio.run(main())
+if __name__ == '__main__':
+    # start the asyncio program
+    asyncio.run(main())

@@ -16,11 +16,12 @@ async def fun2(x):
 
 async def main():
     #Функции отрабатывают в произвольном порядке(в зависимости от времени ожидания в sleep)
-    task1 = asyncio.create_task(fun1(4))
+    task1 = asyncio.create_task(fun1(4)) #Функция начинает работать на этом шаге
     task2 = asyncio.create_task(fun2(4))
 
+
     await task1  #работает дольше. task1 ставит в ожидание, но task2 отрабатывает раньше
-    await task2  #ждем task2, но из-за task1 он уже отработал в данный момент
+    await task2  # ждем task2, но из-за task1 он уже отработал в данный момент
 
     """
     ждем task2 он отрабатывает раньше

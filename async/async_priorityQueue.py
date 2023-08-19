@@ -5,18 +5,18 @@ from random import random
 from random import randint
 import asyncio
 
-
+#В очереди функции выполняются последовательно
 # generate work
 async def producer(queue):
     print('Producer: Running')
     # generate work
-    for i in range(10):
+    for i in range(20):
         # generate a value
-        value = random()
+        value = round(random(),3)
         # generate a priority
-        priority = randint(0, 10)
+        priority = randint(1, 10)     #1 - убрать приоритетность
         # create an item
-        item = (priority, value)
+        item = (priority, value,i)
         # add to the queue
         await queue.put(item)
     # wait for all items to be processed
@@ -41,7 +41,7 @@ async def consumer(queue):
         # block
         await asyncio.sleep(item[1])
         # report
-        print(f'>got {item}')
+        print(f'>got {item} qsize={queue.qsize()}')
         # mark it as processed
         queue.task_done()
     # all done

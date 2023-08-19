@@ -13,7 +13,7 @@ async def async_sleep(num):
     resp = f"done number:{num} duration:{v}  {len(status)}"
 
     print(resp)
-    with open('res.txt', 'a') as f:
+    with open('res.txt','a') as f:
         f.write(resp+'\n')
 
     return (num,)
@@ -36,7 +36,7 @@ async def main():
         print(t)
 
 if __name__ == "__main__":
-    with open('res.txt', 'w') as f:
+    with open('res.txt','w') as f:
         pass
 
     asyncio.run(main())

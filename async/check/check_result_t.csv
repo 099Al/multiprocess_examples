@@ -1,0 +1,100 @@
+err#,#country#,#connection#,#res
+PROXY ERROR#,# Thailand#,# LrY7Iy603eXen5cO:wifi;th;;satun;@proxy.froxy.com:9002#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Taiwan Province of China#,# LrY7Iy603eXen5cO:wifi;tw;;chiayi+county;@proxy.froxy.com:9004#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;aargau;@proxy.froxy.com:9000#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;ruse;@proxy.froxy.com:9003#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Romania#,# LrY7Iy603eXen5cO:wifi;ro;;olt;@proxy.froxy.com:9005#,#Tunnel connection failed: 422 Unprocessable Entity
+CAPTCHA#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+del+valle+del+cauca;@proxy.froxy.com:9006#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+tolima;@proxy.froxy.com:9007#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;nebraska;@proxy.froxy.com:9001#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;aargau;@proxy.froxy.com:9000#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;ruse;@proxy.froxy.com:9003#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Luxembourg#,# LrY7Iy603eXen5cO:wifi;lu;;clervaux;@proxy.froxy.com:9008#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+tolima;@proxy.froxy.com:9007#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;aargau;@proxy.froxy.com:9000#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;ruse;@proxy.froxy.com:9003#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;l-imsida;@proxy.froxy.com:9009#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+tolima;@proxy.froxy.com:9007#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Montenegro#,# LrY7Iy603eXen5cO:wifi;me;;petnjica;@proxy.froxy.com:9013#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Thailand#,# LrY7Iy603eXen5cO:wifi;th;;lamphun;@proxy.froxy.com:9012#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Estonia#,# LrY7Iy603eXen5cO:wifi;ee;;harjumaa;@proxy.froxy.com:9010#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Poland#,# LrY7Iy603eXen5cO:wifi;pl;;pomerania;@proxy.froxy.com:9011#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;appenzell+innerrhoden;@proxy.froxy.com:9016#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Lithuania#,# LrY7Iy603eXen5cO:wifi;lt;;vilnius;@proxy.froxy.com:9014#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Sweden#,# LrY7Iy603eXen5cO:wifi;se;;västra+götaland+county;@proxy.froxy.com:9015#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Finland#,# LrY7Iy603eXen5cO:wifi;fi;;ostrobothnia;@proxy.froxy.com:9017#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;saint+venera;@proxy.froxy.com:9019#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+santander;@proxy.froxy.com:9020#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Sweden#,# LrY7Iy603eXen5cO:wifi;se;;västra+götaland+county;@proxy.froxy.com:9015#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Portugal#,# LrY7Iy603eXen5cO:wifi;pt;;castelo+branco;@proxy.froxy.com:9018#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Italy#,# LrY7Iy603eXen5cO:wifi;it;;umbria;@proxy.froxy.com:9021#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;saint+venera;@proxy.froxy.com:9019#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Finland#,# LrY7Iy603eXen5cO:wifi;fi;;ostrobothnia;@proxy.froxy.com:9017#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+santander;@proxy.froxy.com:9020#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;saint+venera;@proxy.froxy.com:9019#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Finland#,# LrY7Iy603eXen5cO:wifi;fi;;ostrobothnia;@proxy.froxy.com:9017#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Sweden#,# LrY7Iy603eXen5cO:wifi;se;;västra+götaland+county;@proxy.froxy.com:9015#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Colombia#,# LrY7Iy603eXen5cO:wifi;co;;departamento+de+santander;@proxy.froxy.com:9020#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;maryland;@proxy.froxy.com:9023#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Latvia#,# LrY7Iy603eXen5cO:wifi;lv;;siguldas+novads;@proxy.froxy.com:9022#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Latvia#,# LrY7Iy603eXen5cO:wifi;lv;;augsdaugava+municipality;@proxy.froxy.com:9024#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# France#,# LrY7Iy603eXen5cO:wifi;fr;;auvergne-rhone-alpes;@proxy.froxy.com:9026#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;appenzell+ausserrhoden;@proxy.froxy.com:9030#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;colorado;@proxy.froxy.com:9029#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Romania#,# LrY7Iy603eXen5cO:wifi;ro;;vaslui;@proxy.froxy.com:9027#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;new+jersey;@proxy.froxy.com:9025#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;bern;@proxy.froxy.com:9028#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# France#,# LrY7Iy603eXen5cO:wifi;fr;;auvergne-rhone-alpes;@proxy.froxy.com:9026#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;appenzell+ausserrhoden;@proxy.froxy.com:9030#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;iz-zurrieq;@proxy.froxy.com:9034#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;ta'+xbiex;@proxy.froxy.com:9035#,#Tunnel connection failed: 422 Unprocessable Entity
+CAPTCHA#,# Croatia#,# LrY7Iy603eXen5cO:wifi;hr;;sisak-moslavina;@proxy.froxy.com:9032#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Switzerland#,# LrY7Iy603eXen5cO:wifi;ch;;appenzell+ausserrhoden;@proxy.froxy.com:9030#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Japan#,# LrY7Iy603eXen5cO:wifi;jp;;aomori;@proxy.froxy.com:9033#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;missouri;@proxy.froxy.com:9036#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Argentina#,# LrY7Iy603eXen5cO:wifi;ar;;santa+cruz;@proxy.froxy.com:9031#,#Tunnel connection failed: 422 Unprocessable Entity
+CAPTCHA#,# Turkey#,# LrY7Iy603eXen5cO:wifi;tr;;adiyaman;@proxy.froxy.com:9038#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;district+of+columbia;@proxy.froxy.com:9037#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Japan#,# LrY7Iy603eXen5cO:wifi;jp;;aomori;@proxy.froxy.com:9033#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Latvia#,# LrY7Iy603eXen5cO:wifi;lv;;riga;@proxy.froxy.com:9041#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Portugal#,# LrY7Iy603eXen5cO:wifi;pt;;guarda;@proxy.froxy.com:9043#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;kentucky;@proxy.froxy.com:9040#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Turkey#,# LrY7Iy603eXen5cO:wifi;tr;;mersin;@proxy.froxy.com:9042#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Japan#,# LrY7Iy603eXen5cO:wifi;jp;;aomori;@proxy.froxy.com:9033#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Taiwan Province of China#,# LrY7Iy603eXen5cO:wifi;tw;;miaoli;@proxy.froxy.com:9039#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;kentucky;@proxy.froxy.com:9040#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Portugal#,# LrY7Iy603eXen5cO:wifi;pt;;guarda;@proxy.froxy.com:9043#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Turkey#,# LrY7Iy603eXen5cO:wifi;tr;;mersin;@proxy.froxy.com:9042#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Malta#,# LrY7Iy603eXen5cO:wifi;mt;;ix-xaghra;@proxy.froxy.com:9047#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;kentucky;@proxy.froxy.com:9040#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Turkey#,# LrY7Iy603eXen5cO:wifi;tr;;mersin;@proxy.froxy.com:9042#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Argentina#,# LrY7Iy603eXen5cO:wifi;ar;;misiones;@proxy.froxy.com:9044#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Turkey#,# LrY7Iy603eXen5cO:wifi;tr;;bolu;@proxy.froxy.com:9045#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Croatia#,# LrY7Iy603eXen5cO:wifi;hr;;zadar;@proxy.froxy.com:9046#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Portugal#,# LrY7Iy603eXen5cO:wifi;pt;;viana+do+castelo;@proxy.froxy.com:9048#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Croatia#,# LrY7Iy603eXen5cO:wifi;hr;;zadar;@proxy.froxy.com:9046#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Germany#,# LrY7Iy603eXen5cO:wifi;de;;schleswig-holstein;@proxy.froxy.com:9050#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Spain#,# LrY7Iy603eXen5cO:wifi;es;;cantabria;@proxy.froxy.com:9052#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;plovdiv;@proxy.froxy.com:9051#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Croatia#,# LrY7Iy603eXen5cO:wifi;hr;;zadar;@proxy.froxy.com:9046#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;utah;@proxy.froxy.com:9049#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Spain#,# LrY7Iy603eXen5cO:wifi;es;;cantabria;@proxy.froxy.com:9052#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Germany#,# LrY7Iy603eXen5cO:wifi;de;;schleswig-holstein;@proxy.froxy.com:9050#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;plovdiv;@proxy.froxy.com:9051#,#Tunnel connection failed: 422 Unprocessable Entity
+PROXY ERROR#,# Iceland#,# LrY7Iy603eXen5cO:wifi;is;;south;@proxy.froxy.com:9056#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Thailand#,# LrY7Iy603eXen5cO:wifi;th;;phra+nakhon+si+ayutthaya;@proxy.froxy.com:9053#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Spain#,# LrY7Iy603eXen5cO:wifi;es;;cantabria;@proxy.froxy.com:9052#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;plovdiv;@proxy.froxy.com:9051#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Romania#,# LrY7Iy603eXen5cO:wifi;ro;;botosani;@proxy.froxy.com:9055#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Argentina#,# LrY7Iy603eXen5cO:wifi;ar;;tucuman;@proxy.froxy.com:9054#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Bulgaria#,# LrY7Iy603eXen5cO:wifi;bg;;pernik;@proxy.froxy.com:9057#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Japan#,# LrY7Iy603eXen5cO:wifi;jp;;fukuoka;@proxy.froxy.com:9058#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Romania#,# LrY7Iy603eXen5cO:wifi;ro;;ilfov;@proxy.froxy.com:9062#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Lithuania#,# LrY7Iy603eXen5cO:wifi;lt;;alytus;@proxy.froxy.com:9059#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Italy#,# LrY7Iy603eXen5cO:wifi;it;;the+marches;@proxy.froxy.com:9063#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Greece#,# LrY7Iy603eXen5cO:wifi;gr;;central+macedonia;@proxy.froxy.com:9060#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# United States#,# LrY7Iy603eXen5cO:wifi;us;;iowa;@proxy.froxy.com:9061#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Japan#,# LrY7Iy603eXen5cO:wifi;jp;;fukuoka;@proxy.froxy.com:9058#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Lithuania#,# LrY7Iy603eXen5cO:wifi;lt;;alytus;@proxy.froxy.com:9059#,#Tunnel connection failed: 422 Unprocessable Entity
+CAN ONLY CONCATENATE STR (NOT "INT") TO STR#,# Finland#,# LrY7Iy603eXen5cO:wifi;fi;;north+ostrobothnia;@proxy.froxy.com:9064#,#Tunnel connection failed: 422 Unprocessable Entity
+AUTHWALL#,# Italy#,# LrY7Iy603eXen5cO:wifi;it;;the+marches;@proxy.froxy.com:9063#,#Tunnel connection failed: 422 Unprocessable Entity

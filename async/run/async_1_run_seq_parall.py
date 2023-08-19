@@ -3,7 +3,7 @@ from datetime import datetime
 
 async def print_number(task_name):
     print(f">>> Start {task_name}")
-    for _ in range(10):
+    for _ in range(5):
         print(42)
         await asyncio.sleep(0.5)
     print(f"<<< End {task_name}")
@@ -11,7 +11,7 @@ async def print_number(task_name):
 
 async def print_text(task_name):
     print(f">>> Start {task_name}")
-    for _ in range(10):
+    for _ in range(5):
         print("hello")
         await asyncio.sleep(0.9)
     print(f"<<< End {task_name}")
@@ -28,8 +28,8 @@ async def main():
 
 
     #--2й способ-- функциии отрабатывают последовательно
-    await print_number(1)
-    await print_text('a')
+    # await print_number(1)
+    # await print_text('a')
 
     print(f'End {datetime.now()}')
 

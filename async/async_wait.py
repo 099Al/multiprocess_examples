@@ -19,7 +19,7 @@ async def main():
     # create many tasks
     tasks = [asyncio.create_task(task_coro(i)) for i in range(10)]
     # wait for all tasks to complete
-    done, pending = await asyncio.wait(tasks)
+    done, pending = await asyncio.wait(tasks) # Можно заменить на   results = await asyncio.gather(*tasks)
 
     """
     # wait for all tasks to complete

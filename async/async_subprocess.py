@@ -37,12 +37,12 @@ process = await asyncio.create_subprocess_exec('ls', stdout=asyncio.subprocess.P
 
 # start a subprocess and redirect input
 process = await asyncio.create_subprocess_exec('ls', stdin=asyncio.subprocess.PIPE)
-# send data to the subprocess
+# send src_data to the subprocess
 process.communicate(input=b'Hello\n')
 """
 Behind the scenes the asyncio.subprocess.
 PIPE configures the subprocess to point to a StreamReader or StreamWriter 
-for sending data to or from the subprocess, and the communicate() 
+for sending src_data to or from the subprocess, and the communicate() 
 method will read or write bytes from the configured reader.
 """
 
@@ -58,7 +58,7 @@ async def main():
     print(f'subprocess: {process}')
     # read a line of output from the program
     data, _ = await process.communicate()
-    # report the data
+    # report the src_data
     print(data)
 
 #Sending Input to a Subprocess
@@ -67,5 +67,5 @@ async def main():
     process = await asyncio.create_subprocess_exec('cat', stdin=asyncio.subprocess.PIPE)
     # report the details of the subprocess
     print(f'subprocess: {process}')
-    # write data to the process
+    # write src_data to the process
     _ = await process.communicate(b'Hello World\n')

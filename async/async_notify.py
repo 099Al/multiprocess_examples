@@ -7,7 +7,7 @@ import asyncio
 async def task(condition, work_list):
     # block for a moment
     await asyncio.sleep(5)
-    # add data to the work list
+    # add src_data to the work list
     work_list.append(33)
     # notify a waiting coroutine that the work is done
     print('Task sending notification...')
@@ -21,8 +21,8 @@ async def main():
     condition = asyncio.Condition()
     # prepare the work list
     work_list = list()
-    # wait to be notified that the data is ready
-    print('Main waiting for data...')
+    # wait to be notified that the src_data is ready
+    print('Main waiting for src_data...')
     async with condition:
         # create and start the a task
         _ = asyncio.create_task(task(condition, work_list))
@@ -30,8 +30,8 @@ async def main():
         print('--1--')
         await condition.wait()  #Ожидание notyfy, чтобы перейти к след шагу
         print('--2--')
-    # we know the data is ready
-    print(f'Got data: {work_list}')
+    # we know the src_data is ready
+    print(f'Got src_data: {work_list}')
 
 
 # run the asyncio program

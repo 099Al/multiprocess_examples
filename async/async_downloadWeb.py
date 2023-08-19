@@ -17,7 +17,7 @@ async def http_get(writer, path, host):
 
 # coroutine to read a http block from a socket
 async def http_read(reader):
-    # read all data, decode and add to string
+    # read all src_data, decode and add to string
     data = ''
     async for line in reader:
         # decode into a string

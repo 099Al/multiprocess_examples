@@ -27,7 +27,7 @@ async def main():
     task.add_done_callback(callback)
     # wait a moment
     await asyncio.sleep(0.1)
-    # remove the done callback function
+    # remove the done callback function Т.е. callback не будет возвращаться
     task.remove_done_callback(callback)
     # wait for the task to complete
     await task
