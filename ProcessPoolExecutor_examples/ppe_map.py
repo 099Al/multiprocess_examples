@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
     """
     with ProcessPoolExecutor(workers) as executor:
-        futures = executor.map(f_task, range(10),data)
+        futures = executor.map(f_task, range(10),src_data)
 
     print('-----map result-----')
     #Результат будут в порядке следования

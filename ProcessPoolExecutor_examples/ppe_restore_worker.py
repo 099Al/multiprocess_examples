@@ -27,7 +27,7 @@ if __name__ == '__main__':
         for future in as_completed(futures_to_data):
             # check for a failure
             if future.exception():
-                # get the associated data for the task
+                # get the associated src_data for the task
                 data = futures_to_data[future]
                 # submit the task again
                 future = executor.submit(work, data)
@@ -43,7 +43,7 @@ if __name__ == '__main__':
         for future in as_completed(retries):
             # check for a failure
             if future.exception():
-                # get the associated data for the task
+                # get the associated src_data for the task
                 data = retries[future]
                 # failure
                 print(f'Failure on retry: {data}, not trying again')
